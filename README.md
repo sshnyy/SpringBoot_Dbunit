@@ -1,7 +1,5 @@
 # Testing Spring Boot 2.x with DBUnit
 
-Reference: github-anyjava
-
 [![Release](https://jitpack.io/v/anyjava/spring-boot-dbunit.svg)](https://jitpack.io/#anyjava/spring-boot-dbunit)
 
 
@@ -23,3 +21,7 @@ dependencies {
 ## How to use this project
 
 * please see [ppodgorsek/spring-test-dbunit](https://github.com/ppodgorsek/spring-test-dbunit)
+
+## Reference
+   - github: anyjava
+   - https://techblog.woowahan.com/2650/
