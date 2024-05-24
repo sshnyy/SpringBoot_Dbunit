@@ -1,0 +1,7 @@
+bootJar.enabled = false
+jar.enabled = true
+
+dependencies {
+    compile('com.github.ppodgorsek:spring-test-dbunit-core:5.2.0')
+    compile('org.dbunit:dbunit:2.6.0')
+}
