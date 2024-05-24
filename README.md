@@ -1,6 +1,8 @@
 # Testing Spring Boot 2.x with DBUnit
 
-- Reference: github-anyjava
+- Reference
+   - github: anyjava
+   - https://techblog.woowahan.com/2650/
 
 [![Release](https://jitpack.io/v/anyjava/spring-boot-dbunit.svg)](https://jitpack.io/#anyjava/spring-boot-dbunit)
 
